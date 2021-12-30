@@ -1,0 +1,30 @@
+body{
+    background-color: #13fc03;
+}
+
+#first{
+    background-color: bisque;
+}
+
+#show_sketch{
+    text-align: right;
+    float:right;
+}
+
+#score{
+    text-align: left;
+}
+
+#timer{
+    text-align: right;
+}
+
+#sketch{
+    color: orangered;
+    font-size: 21px;
+}
+
+#confidence{
+    color: orangered;
+    font-size: 21px;
+}
